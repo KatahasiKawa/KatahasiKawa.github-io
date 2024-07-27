@@ -4,7 +4,7 @@
   <url>
     <loc>https://northrb.moe/2024/07/17/updated/</loc>
     
-    <lastmod>2024-07-25</lastmod>
+    <lastmod>2024-07-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -83,13 +83,6 @@
 
   
   <url>
-    <loc>https://northrb.moe/tags/%E5%8C%97%E4%BA%AC/</loc>
-    <lastmod>2024-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://northrb.moe/tags/%E5%9F%8E%E5%B8%82/</loc>
     <lastmod>2024-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,17 +103,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://northrb.moe/tags/%E5%8C%97%E4%BA%AC/</loc>
+    <lastmod>2024-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://northrb.moe/categories/%E5%9F%8E%E5%B8%82%E8%A7%82%E5%AF%9F/</loc>
+    <loc>https://northrb.moe/categories/%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/</loc>
     <lastmod>2024-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://northrb.moe/categories/%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/</loc>
+    <loc>https://northrb.moe/categories/%E5%9F%8E%E5%B8%82%E8%A7%82%E5%AF%9F/</loc>
     <lastmod>2024-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
